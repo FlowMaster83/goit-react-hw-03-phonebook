@@ -8,6 +8,7 @@ import { ContactList } from './ContactList/ContactList';
 import { Filter } from './Filter/Filter';
 
 const LS_KEY = 'contacts';
+console.log('have a nice day');
 
 export class App extends Component {
   state = {
